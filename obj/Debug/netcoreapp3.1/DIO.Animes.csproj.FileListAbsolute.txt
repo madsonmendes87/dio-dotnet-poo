@@ -1,0 +1,13 @@
+/home/madson/sandbox/dio/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes
+/home/madson/sandbox/dio/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.deps.json
+/home/madson/sandbox/dio/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.runtimeconfig.json
+/home/madson/sandbox/dio/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.runtimeconfig.dev.json
+/home/madson/sandbox/dio/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.dll
+/home/madson/sandbox/dio/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.pdb
+/home/madson/sandbox/dio/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.csprojAssemblyReference.cache
+/home/madson/sandbox/dio/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.AssemblyInfoInputs.cache
+/home/madson/sandbox/dio/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.AssemblyInfo.cs
+/home/madson/sandbox/dio/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.csproj.CoreCompileInputs.cache
+/home/madson/sandbox/dio/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.dll
+/home/madson/sandbox/dio/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.pdb
+/home/madson/sandbox/dio/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.genruntimeconfig.cache
